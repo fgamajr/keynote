@@ -1,0 +1,1 @@
+Minimalist warning/alert icon set for audit findings: 1) Document with warning triangle (27%), 2) Map pin with error circle (45%), 3) Email with skull/X mark (90% - deceased), 4) Broken code brackets (94% metadata failure). Colors: Red (#C53030) for critical, Orange (#ED8936) for high. Clean line art. Apple style. Transparent background. 4K.

@@ -1,0 +1,1 @@
+Minimalist dark terminal window showing processing logs. Dark background (#1A1A2E), cyan text (#4FC3F7). Lines showing: 'Processing document 1,247...', 'Validation: PASSED', 'Output: audit_report_001.md'. Clean monospace font. Small window, corner presentation. Apple Keynote style. 4K.

@@ -1,0 +1,1 @@
+Minimalist arrows showing flow inversion, Apple Keynote style. Top arrow (faded, grayed out): Pointing OUT from database (representing old insecure model). Bottom arrow (bright, cyan): Pointing IN to database (representing MCP secure model). Visual metaphor: Data staying put, AI coming in. Clean vector style. Transparent background. 4K, 16:9.

@@ -1,0 +1,1 @@
+Minimalist status icon set for audit system, Apple style. Checkmark icon (validation passed) - green/blue. Alert icon (needs review) - yellow/amber. Decision seal/icon (final approval) - gold with authority feel. Processing/spinner icon (AI working) - cyan. All icons consistent style: clean line art, rounded corners. Transparent background. 4K, 16:9.
